@@ -1,4 +1,4 @@
-# Mathematical-Statistics-Project
+# Mathematical_Statistics_Project
 Mathematical Statistics project from November 2021 to January 2022.
 
 This Statistics project focused on looking at data coming from the USA from 2016.
